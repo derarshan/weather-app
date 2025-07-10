@@ -32,7 +32,7 @@ A simple and responsive JavaScript-based Weather App that fetches real-time weat
 ---
 
 ## Preview
-[Click here to view the live project](https://yourusername.github.io/weather-app/)  
+[Click here to view the live project](https://derarshan.github.io/weather-app/)  
 
 ---
 Made with purpose by [@derarshan](https://github.com/derarshan)
