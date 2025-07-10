@@ -32,8 +32,8 @@ A simple and responsive JavaScript-based Weather App that fetches real-time weat
 ---
 
 ## Preview
-[This app requires an API key from [OpenWeatherMap](https://openweathermap.org/api)
-replace "YOUR_API_KEY" with your key in `script.js` file](https://derarshan.github.io/weather-app/)  
+[This app requires an API key from [OpenWeatherMap](https://openweathermap.org/api)]
+[replace "YOUR_API_KEY" with your key in `script.js` file](https://derarshan.github.io/weather-app/)  
 
 ---
 Made with purpose by [@derarshan](https://github.com/derarshan)
