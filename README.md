@@ -17,7 +17,7 @@ A simple and responsive JavaScript-based Weather App that fetches real-time weat
 
 ---
 
-## 🛠Built With
+## Built With
 
 - **HTML**
 - **CSS**
@@ -26,7 +26,7 @@ A simple and responsive JavaScript-based Weather App that fetches real-time weat
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 ![Screenshot](./screenshot.png)
 
 ---
