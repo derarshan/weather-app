@@ -1,4 +1,4 @@
-# 🌤Weather App
+# Weather App
 
 A simple and responsive JavaScript-based Weather App that fetches real-time weather data using the OpenWeatherMap API. Users can enter a city name and get the current temperature, weather condition, and related icon.
 
@@ -17,7 +17,7 @@ A simple and responsive JavaScript-based Weather App that fetches real-time weat
 
 ---
 
-## 🛠️ Built With
+## 🛠Built With
 
 - **HTML**
 - **CSS**
